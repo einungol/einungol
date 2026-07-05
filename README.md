@@ -43,6 +43,6 @@ A self-built, TryHackMe-style **cyber security training platform** focused on de
 ## 📫 Reach me
 
 - 📧 jpirasampan@gmail.com
-- 💼 [LinkedIn](#) <!-- add your LinkedIn URL -->
+- 💼 [LinkedIn](#) <[!-- add your LinkedIn URL --](https://www.linkedin.com/in/anan-pirasampansiri-754948146/)>
 
 > *"Am I building the kind of skills that AI can't easily replace? Am I visible, valuable, and adaptable?"* — the questions that drive how I learn.
